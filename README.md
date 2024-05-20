@@ -1,3 +1,3 @@
 DVOXSOTKA
 
-fork of SOTKA
+fork of сто рентген (сотка)
